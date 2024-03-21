@@ -1,5 +1,5 @@
 ---
-title: Home
+title: AVAnnotate Documentation
 layout: home
 ---
 
